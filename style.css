@@ -1,7 +1,9 @@
 body {
-  background-color: aliceblue;
+  background-color: purple;
+  padding: 0;
+  border: 3px solid;
 }
 
 * {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
